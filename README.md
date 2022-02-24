@@ -1,4 +1,4 @@
-Travis Status [![Build Status](https://app.travis-ci.com/samscodes/docker-react.svg?branch=master)](https://app.travis-ci.com/samscodes/docker-react)
+Travis Status:   [![Build Status](https://app.travis-ci.com/samscodes/docker-react.svg?branch=master)](https://app.travis-ci.com/samscodes/docker-react)
 
 # docker-react
 
