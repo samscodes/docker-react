@@ -13,5 +13,5 @@ RUN npm run build
 
 FROM nginx
 # When deploy expose to port 80 AWS
-EXPOSE 8080
+EXPOSE 80
 COPY --from=builder /app/build /usr/share/nginx/html
