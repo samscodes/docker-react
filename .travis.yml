@@ -14,11 +14,11 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: 'ap-southeast-1'
-  app: 'docker-react'
-  env: 'Dockerreact-env-1'
+  app: 'docker'
+  env: 'Docker-env'
   # AWS S3
   bucket_name: 'elasticbeanstalk-ap-southeast-1-548947779608'
-  bucket_path: 'docker-react'
+  bucket_path: 'docker'
   on:
     branch: master
   # first create user policy with IAM in AWS
