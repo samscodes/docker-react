@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile.dev
     ports:
-      - "80:3000"
+      - "80:3000" # Map port 80 FROM the .travis EXPOSE PORT to 3000
     volumes:
       - /app/node_modules
       - .:/app
