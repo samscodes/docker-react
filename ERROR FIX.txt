@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/66957889/elasticbeanstalk-on-the-docker-platform-502-bad-gateway-for-the-react-app
